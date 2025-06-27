@@ -1,4 +1,4 @@
-# Azure_API
+# PowerShell Graph API
 Me interacting with different sections of Azure and it's APIs 
 
 1. Sign in to the [Azure portal](https://portal.azure.com/)
