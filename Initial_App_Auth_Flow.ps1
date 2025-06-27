@@ -6,7 +6,7 @@ $clientSecret = $env:AZURE_CLIENT_SECRET
 
 #Build the token to use with the Graph APIt
 
-function Receive-token {
+function Receive-App-token {
     param($clientId, $clientSecret, $tenantId)
 
     $body = @{
