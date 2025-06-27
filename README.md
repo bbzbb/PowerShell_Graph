@@ -1,5 +1,5 @@
 # PowerShell Graph API
-Me interacting with different sections of Azure and it's APIs 
+Me interacting with different sections of Azure and it's Graph API
 
 1. Sign in to the [Azure portal](https://portal.azure.com/)
 2. Navigate to Microsoft Entra ID > App registrations > New registration.
